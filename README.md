@@ -1,5 +1,3 @@
-# RasberryPi-Temperature-Sensor
-
 # RaspberryPi Temperature Sensor
 
 RasberryPi-Temperature-Sensor is the remote sensor component of the RasberryPi-Temperature-App, https://github.com/dijahp/RasberryPi-Temperature-App, command and control application.
