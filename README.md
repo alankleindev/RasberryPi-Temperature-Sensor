@@ -20,7 +20,7 @@ Raspberry Pi Model 4B or Raspberry Pi 3 B+
 
 ## Authors
 
+- **Sherri Booher**
 - **Alan Klein**
 - **Samhita Noone**
 - **Khadijah Parks**
-- **Sherri Booher**
