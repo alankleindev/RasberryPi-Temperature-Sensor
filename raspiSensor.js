@@ -16,7 +16,7 @@ let readIt = () => {
       axios
         .post("https://magnolia-possum-6914.twil.io/raspi", {
           temperature: res.temperature,
-          humdity: res.humdidity
+          humidity: res.humidity
         })
         .then(res => console.log(JSON.stringify(res.data, null, 2)))
         .catch(err => console.log(err));
